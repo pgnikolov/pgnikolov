@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Plamen Nikolov, an aspiring Data Scientist and Data Analyst diving into the data-driven universe. I'm passionate about extracting meaningful insights from data and leveraging them to solve real-world problems.
+I'm Plamen Nikolov. I'm passionate about extracting meaningful insights from data and leveraging them to solve real-world problems.
 
 🔍 **Current Focus:**
 - Strengthening my **Data Science** and **Data Analysis** foundations.
-- Proficiency in Python for data wrangling, analysis, and visualization.
+- Proficiency in Python 
 - Utilizing **Jupyter Notebook** for interactive data storytelling.
 
 🌱 **Learning Journey:**
@@ -20,8 +20,6 @@ I'm Plamen Nikolov, an aspiring Data Scientist and Data Analyst diving into the 
 🛠 **Tech Toolkit:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
-- SQL
-- Git & GitHub
 
 I'm always open to collaborating on projects, sharing knowledge, and growing together in this exciting field. Let's connect!
 
