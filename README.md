@@ -13,7 +13,7 @@
 
 -  📫 You can get in touch with me by email at: pgnikolov@gmail.com
 
-- ⛰️ I'm loving to be in the nature for a walk with my dog . Apart from Python, diving and mountain biking is my other passion when I have more free time.
+- ⛰️ I'm loving to be in the nature for a walk with my dog. Apart from Python, diving and mountain biking is my other passion when I have more free time.
   
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
