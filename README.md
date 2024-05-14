@@ -16,8 +16,8 @@
 - ⛰️ I'm loving to be in the nature for a walk with my dog. Apart from Python, diving and mountain biking is my other passion when I have more free time.
   
 # 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,pycharm,github)](https://skillicons.dev)
+
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pgnikolov&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pgnikolov&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
