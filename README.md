@@ -6,7 +6,7 @@
 
 ### About me:
 
-- 🔭 I am on a journey of continuous learning and growth in the world of Python programming, dedicating my time to enhancing my skills through various projects and practical applications. I study for software developer with Python in [SoftUni](https://softuni.bg/curriculum)
+- 🔭 I study for software developer with Python in [SoftUni](https://softuni.bg/curriculum)
 
 - 👨‍🎓 I'm an Process Operator at Martens Kunststoffen B.V.
  
