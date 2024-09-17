@@ -3,6 +3,7 @@
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:pgnikolov@gmail.com)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pgnikolov/)
 
+
 ### About me:
 
 - 🔭 I study for software developer with Python in [SoftUni](https://softuni.bg/curriculum)
