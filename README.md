@@ -17,7 +17,7 @@
 - ⛰️ I'm loving to be in the nature for a walk with my dog. Apart from Python, diving and mountain biking is my other passion when I have more free time.
   
 # 💻Tech Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pycharm,javascript,vscode,jupyter,github)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pycharm,javascript,vscode,jupyter,html,github)
 
 
 # 📊GitHub Stats :
