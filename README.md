@@ -9,7 +9,10 @@ I am very interested and eager to learn new tools and techniques. My goal is to 
 
 ### 🤝 **Let’s Work Together**:
 
-Anyone who wants to discuss issues around Python, software development, or any partnership possibilities can contact me through [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pgnikolov@gmail.com) or [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pgnikolov/).
+I’m excited of the idea to be part of the development community and am always open to working together on projects. While I’m still learning and growing in my skills, I am passionate about improving and contributing. I believe in continuous learning, and I’m eager to collaborate, share knowledge, and learn from others as we work on interesting projects together.
+
+Feel free to reach out if you want to collaborate or if you have any advice for a developer who’s still learning!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pgnikolov@gmail.com) or [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pgnikolov/)
 
 ### 🏖️ **When I Am Not Coding**:
 
