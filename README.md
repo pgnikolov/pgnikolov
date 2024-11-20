@@ -3,7 +3,6 @@
 
 ### ❓ **Who Am I**: 
 
-
 At the moment, I am a student at [SoftUni](https://softuni.bg/curriculum), where I continue my education in Python and other related technologies. 
 In addition to my studies, I work as a Process Operator at Martens Kunststoffen B.V., which helps me apply my technical skills in real-world situations.
 I am very interested and eager to learn new tools and techniques. My goal is to write clean, efficient code. I love solving problems, streamlining processes, and developing integrated solutions.
