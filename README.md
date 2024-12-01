@@ -1,6 +1,5 @@
 ### Hello, my name is Plamen Nikolov and I am a Python developer who enjoys the development of useful solutions and optimization of existing processes.
 
-
 ### ❓ **Who Am I**: 
 
 At the moment, I am a student at [SoftUni](https://softuni.bg/curriculum), where I continue my education in Python and other related technologies. 
