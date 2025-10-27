@@ -1,27 +1,30 @@
-### Hello, my name is Plamen Nikolov and I am a Python developer who enjoys the development of useful solutions and optimization of existing processes.
+<h1 align="center">Hello there 👋, I'm Plamen Nikolov</h1>
+<h3 align="center">A passionate Python developer from Bulgaria, focused on building efficient solutions and optimizing workflows.</h3>
 
-### ❓ **Who Am I**: 
+### 👨‍💻 About Me
 
-At the moment, I am a student at [SoftUni](https://softuni.bg/curriculum), where I continue my education in Python and other related technologies. 
-In addition to my studies, I work as a Process Operator at Martens Kunststoffen B.V., which helps me apply my technical skills in real-world situations.
-I am very interested and eager to learn new tools and techniques. My goal is to write clean, efficient code. I love solving problems, streamlining processes, and developing integrated solutions.
-
-
-### 🤝 **Let’s Work Together**:
-
-I’m excited of the idea to be part of the development community and am always open to working together on projects. While I’m still learning and growing in my skills, I am passionate about improving and contributing. I believe in continuous learning, and I’m eager to collaborate, share knowledge, and learn from others as we work on interesting projects together.
-
+- 🎓 I’m currently expanding my expertise as a student at [SoftUni](https://softuni.bg/curriculum), diving deep into **Python** and modern software development.
+- 💼 I bring a practical, problem-solving mindset from my professional experience in industrial environments, which I apply to my development work.
+- 🚀 My goal is to write **clean, maintainable, and efficient code** that solves real-world problems.
+- 🌱 I’m constantly learning and I'm eager to explore new technologies and best practices.
+- 🤝 I’m open to collaborating on interesting **Python projects** and contributing to the developer community.
 Feel free to reach out if you want to collaborate or if you have any advice for a developer who’s still learning!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pgnikolov@gmail.com) or [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pgnikolov/)
 
-### 🏖️ **When I Am Not Coding**:
-
-In my spare time, when I’m not immersed in Python code, I enjoy traveling the world 🌍, or more commonly, taking my dog 🐕 on a hike. 
-I am always eager to try new activities and I like to switch my focus from technology to nature.
-Photography 📸 is also a big passion of mine—it’s a hobby that allows me to capture the beauty of the world around me, combining creativity and technical skill. 
-
 ## 💻Tech Stack
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pycharm,javascript,vscode,jupyter,html,css,github)
+
+---
+
+### 🐕‍🦺 A Glimpse Into My Personal Life
+
+When I'm not in front of a screen, you can find me:
+- 🌍 **Exploring** new places and cultures.
+- 🐕 **Hiking** with my dog, enjoying the great outdoors.
+- 📸 **Capturing moments** through my lens, blending my love for technology and art in photography.
+
+---
+
 
 
 ## 📊GitHub Stats :
