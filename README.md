@@ -12,7 +12,7 @@ Feel free to reach out if you want to collaborate or if you have any advice for 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pgnikolov@gmail.com) or [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pgnikolov/)
 
 ## 💻Tech Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pycharm,javascript,vscode,jupyter,html,css,github)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,pycharm,javascript,vscode,jupyter,html,css,github,cloudflare,postman,wordpress,elementor)
 
 ---
 
